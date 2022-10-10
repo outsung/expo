@@ -13,6 +13,7 @@
 - Handle all development session errors. ([#18499](https://github.com/expo/expo/pull/18499) by [@EvanBacon](https://github.com/EvanBacon))
 - Add `EXPO_NO_DEFAULT_PORT` to skip proxy port. ([#18464](https://github.com/expo/expo/pull/18464) by [@EvanBacon](https://github.com/EvanBacon))
 - Disable interactive prompts in non TTY processes. ([#18300](https://github.com/expo/expo/pull/18300) by [@EvanBacon](https://github.com/EvanBacon))
+- Implement new package manager API in CLI. ([#19343](https://github.com/expo/expo/pull/19343) by [@byCedric](https://github.com/byCedric))
 
 ### 🐛 Bug fixes
 
@@ -27,6 +28,7 @@
 - Catch error thrown when trying to launch redirect page without an application ID defined in `app.json`. ([#19312](https://github.com/expo/expo/pull/19312) by [@esamelson](https://github.com/esamelson))
 - Present intended variadic argument when asserting flags in `npx expo install`. ([#19396](https://github.com/expo/expo/pull/19396) by [@bycedric](https://github.com/bycedric))
 - Disable API interaction when running in offline mode. ([#19418](https://github.com/expo/expo/pull/19418) by [@byCedric](https://github.com/byCedric))
+- Fix `devDependencies` when running `npx expo install --fix`. ([#19344](https://github.com/expo/expo/pull/19344) by [@byCedric](https://github.com/byCedric))
 
 ### 💡 Others
 
