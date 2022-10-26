@@ -10,20 +10,21 @@ Package-specific changes not released in any SDK will be added here just before 
 - Updated `react-native-pager-view` from `5.4.245` to `6.0.1`. ([#19528](https://github.com/expo/expo/pull/19528) by [@brentvatne](https://github.com/brentvatne))
 - Updated `react-native-safe-area-context` from `4.3.1` to `4.4.1`. ([#19055](https://github.com/expo/expo/pull/19401) by [@brentvatne](https://github.com/brentvatne))
 - Updated `@stripe/stripe-react-native` from `0.13.1` to `0.19.0`. ([#19055](https://github.com/expo/expo/pull/19055) by [@tsapeta](https://github.com/tsapeta), [#19432](https://github.com/expo/expo/pull/19432) by [@kudo](https://github.com/kudo))
-- Updated `@shopify/flash-list` from `1.1.0` to `1.3.0`. ([#19317](https://github.com/expo/expo/pull/19317) by [@kudo](https://github.com/kudo))
+- Updated `@shopify/flash-list` from `1.1.0` to `1.3.1`. ([#19317](https://github.com/expo/expo/pull/19317) by [@kudo](https://github.com/kudo)) ([#19647](https://github.com/expo/expo/pull/19647) by [@brentvatne](https://github.com/brentvatne))
 - Updated `react-native-view-shot` from `3.3.0` to `3.4.0`. ([#19405](https://github.com/expo/expo/pull/19405) by [@douglowder](https://github.com/douglowder))
 - Updated `react-native-webview` from `11.23.0` to `11.23.1`. ([#19375](https://github.com/expo/expo/pull/19375) by [@aleqsio](https://github.com/aleqsio))
-- Updated `react-native-gesture-handler` from `2.5.0` to `2.7.0`. ([#19362](https://github.com/expo/expo/pull/19362) by [@tsapeta](https://github.com/tsapeta))
-- Updated `@react-native-community/netinfo` from `9.3.0` to `9.3.3`. ([#19421](https://github.com/expo/expo/pull/19421) by [@douglowder](https://github.com/douglowder))
-- Updated `@react-native-picker/picker` from `2.4.2` to `2.4.6`. ([#19390](https://github.com/expo/expo/pull/19390) by [@aleqsio](https://github.com/aleqsio))
+- Updated `react-native-gesture-handler` from `2.5.0` to `2.8.0`. ([#19362](https://github.com/expo/expo/pull/19362) & [#19654](https://github.com/expo/expo/pull/19654) by [@tsapeta](https://github.com/tsapeta) & [@lukmccall](https://github.com/lukmccall))
+- Updated `@react-native-community/netinfo` from `9.3.0` to `9.3.5`. ([#19421](https://github.com/expo/expo/pull/19421) by [@douglowder](https://github.com/douglowder)) ([#19647](https://github.com/expo/expo/pull/19647) by [@brentvatne](https://github.com/brentvatne))
+- Updated `@react-native-picker/picker` from `2.4.2` to `2.4.8`. ([#19390](https://github.com/expo/expo/pull/19390) by [@aleqsio](https://github.com/aleqsio)) ([#19647](https://github.com/expo/expo/pull/19647) by [@brentvatne](https://github.com/brentvatne))
 - Updated `react-native-screens` from `3.15.0` to `3.18.0`. ([#19383](https://github.com/expo/expo/pull/19383) by [@tsapeta](https://github.com/tsapeta))
-- Updated `@shopify/react-native-skia` from `0.1.136` to `0.1.153`. ([#19360](https://github.com/expo/expo/pull/19360) by [@kudo](https://github.com/kudo))
+- Updated `@shopify/react-native-skia` from `0.1.136` to `0.1.155`. ([#19360](https://github.com/expo/expo/pull/19360) by [@kudo](https://github.com/kudo)) ([#19647](https://github.com/expo/expo/pull/19647) by [@brentvatne](https://github.com/brentvatne))
 - Updated `@react-native-community/datetimepicker` from `6.2.0` to `6.5.0`. ([#19419](https://github.com/expo/expo/pull/19419) by [@byCedric](https://github.com/byCedric))
 - Updated `react-native-maps` from `0.31.1` to `1.3.2`. ([#19414](https://github.com/expo/expo/pull/19414) by [@aleqsio](https://github.com/aleqsio))
 - Updated `lottie-react-native` from `5.1.3` to `5.1.4`. ([#19433](https://github.com/expo/expo/pull/19433) by [@kudo](https://github.com/kudo))
 - Updated `@react-native-community/slider` from `4.2.3` to `4.2.4`. ([#19424](https://github.com/expo/expo/pull/19424)) by [@kudo](https://github.com/kudo))
 - Updated `react-native-svg` from `12.3.0` to `13.4.0`. ([#19434](https://github.com/expo/expo/pull/19434) by [@lukmccall](https://github.com/lukmccall))
 - Updated `react-native-reanimated` from `2.10.0` to `2.11.0`. ([#19602](https://github.com/expo/expo/pull/19602) by [@lukmccall](https://github.com/lukmccall))
+- Updated `@react-native-community/datetimepicker` from `6.5.0` to `6.5.2`. ([#19642](https://github.com/expo/expo/pull/19642) by [@byCedric](https://github.com/byCedric))
 
 ### 🛠 Breaking changes
 
@@ -640,6 +641,7 @@ Package-specific changes not released in any SDK will be added here just before 
 
 ### 📚 3rd party library updates
 
+- Updated `@react-native-masked-view/masked-view` from `0.2.6` to `0.2.8`. ([#19645](https://github.com/expo/expo/pull/19645) by [@gabrieldonadel](https://github.com/gabrieldonadel))
 - Updated `react-native-webview` from `11.13.0` to `11.15.0`. ([#15330](https://github.com/expo/expo/pull/15330) by [@tsapeta](https://github.com/tsapeta))
 - Updated `react-native-shared-element` from `0.8.2` to `0.8.3`. ([#15338](https://github.com/expo/expo/pull/15338) by [@kudo](https://github.com/kudo))
 - Updated `lottie-react-native` from `4.0.3` to `5.0.1`. ([#15345](https://github.com/expo/expo/pull/15345) by [@kudo](https://github.com/kudo))

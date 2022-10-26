@@ -122,6 +122,7 @@ const general = [
     makePage('guides/using-nextjs.mdx'),
     makePage('guides/typescript.mdx'),
     makePage('guides/using-flipper.mdx'),
+    makePage('guides/using-analytics.mdx'),
   ]),
   makeSection('Assorted guides', [
     makePage('guides/routing-and-navigation.mdx'),
@@ -286,6 +287,7 @@ const eas = [
         makePage('eas-update/runtime-versions.mdx'),
         makePage('eas-update/environment-variables.mdx'),
         makePage('eas-update/expo-dev-client.mdx'),
+        makePage('eas-update/code-signing.mdx'),
         makePage('eas-update/known-issues.mdx'),
         makePage('eas-update/rollouts.mdx'),
         makePage('eas-update/faq.mdx'),
