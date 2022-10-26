@@ -10,10 +10,10 @@ import {
   theme,
   typography,
 } from '@expo/styleguide';
-import React, { PropsWithChildren } from 'react';
+import { PropsWithChildren } from 'react';
 import { Col, ColProps } from 'react-grid-system';
 
-import { P } from '~/ui/components/Text';
+import { A, P } from '~/ui/components/Text';
 
 export const GridCell = ({
   children,
@@ -48,13 +48,13 @@ export const APIGridCell = ({
   xl = 3,
 }: APIGridCellProps) => (
   <Col css={cellWrapperStyle} md={md} sm={sm} lg={lg} xl={xl}>
-    <a href={link} css={[cellStyle, cellAPIStyle, cellHoverStyle]} className={className}>
+    <A href={link} css={[cellStyle, cellAPIStyle, cellHoverStyle]} className={className}>
       <div css={cellIconWrapperStyle}>{icon}</div>
       <div css={cellTitleWrapperStyle}>
         {title}
         <ArrowRightIcon color={theme.icon.secondary} />
       </div>
-    </a>
+    </A>
   </Col>
 );
 

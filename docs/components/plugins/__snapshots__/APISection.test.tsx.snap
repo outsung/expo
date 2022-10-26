@@ -14,8 +14,8 @@ exports[`APISection expo-apple-authentication 1`] = `
         id="component"
       />
       <a
-        class="css-8y2kaf"
-        href="#component"
+        class="css-bwy6tr-A"
+        href="/#component"
       >
         <span
           class="css-6n7j50"
@@ -68,8 +68,8 @@ exports[`APISection expo-apple-authentication 1`] = `
           id="appleauthenticationbutton"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationbutton"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationbutton"
         >
           <span
             class="css-6n7j50"
@@ -272,6 +272,7 @@ not appear on the screen.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.apple.com/documentation/authenticationservices/asauthorizationappleidbutton"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Apple
 Documentation
@@ -293,8 +294,8 @@ for more details.
           id="props"
         />
         <a
-          class="css-8y2kaf"
-          href="#props"
+          class="css-bwy6tr-A"
+          href="/#props"
         >
           <span
             class="css-6n7j50"
@@ -348,8 +349,8 @@ for more details.
               id="buttonstyle"
             />
             <a
-              class="css-8y2kaf"
-              href="#buttonstyle"
+              class="css-bwy6tr-A"
+              href="/#buttonstyle"
             >
               <span
                 class="css-6n7j50"
@@ -434,8 +435,8 @@ for more details.
               id="buttontype"
             />
             <a
-              class="css-8y2kaf"
-              href="#buttontype"
+              class="css-bwy6tr-A"
+              href="/#buttontype"
             >
               <span
                 class="css-6n7j50"
@@ -520,8 +521,8 @@ for more details.
               id="cornerradius"
             />
             <a
-              class="css-8y2kaf"
-              href="#cornerradius"
+              class="css-bwy6tr-A"
+              href="/#cornerradius"
             >
               <span
                 class="css-6n7j50"
@@ -613,8 +614,8 @@ for more details.
               id="style"
             />
             <a
-              class="css-8y2kaf"
-              href="#style"
+              class="css-bwy6tr-A"
+              href="/#style"
             >
               <span
                 class="css-6n7j50"
@@ -681,6 +682,7 @@ for more details.
                 class="css-ccg2mn-ExternalLink"
                 href="https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys"
                 rel="noopener noreferrer"
+                target="_blank"
               >
                 Omit
               </a>
@@ -743,8 +745,8 @@ properties.
               id="onpress"
             />
             <a
-              class="css-8y2kaf"
-              href="#onpress"
+              class="css-bwy6tr-A"
+              href="/#onpress"
             >
               <span
                 class="css-6n7j50"
@@ -836,8 +838,8 @@ in here.
             id="inherited-props"
           />
           <a
-            class="css-8y2kaf"
-            href="#inherited-props"
+            class="css-bwy6tr-A"
+            href="/#inherited-props"
           >
             <span
               class="css-6n7j50"
@@ -908,8 +910,8 @@ in here.
         id="methods"
       />
       <a
-        class="css-8y2kaf"
-        href="#methods"
+        class="css-bwy6tr-A"
+        href="/#methods"
       >
         <span
           class="css-6n7j50"
@@ -962,8 +964,8 @@ in here.
           id="getcredentialstateasyncuser"
         />
         <a
-          class="css-8y2kaf"
-          href="#getcredentialstateasyncuser"
+          class="css-bwy6tr-A"
+          href="/#getcredentialstateasyncuser"
         >
           <span
             class="css-6n7j50"
@@ -1151,8 +1153,8 @@ This should come from the user field of an
             id="returns"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns"
+            class="css-bwy6tr-A"
+            href="/#returns"
           >
             <span
               class="css-6n7j50"
@@ -1223,6 +1225,7 @@ This should come from the user field of an
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -1273,8 +1276,8 @@ value depending on the state of the credential.
           id="isavailableasync"
         />
         <a
-          class="css-8y2kaf"
-          href="#isavailableasync"
+          class="css-bwy6tr-A"
+          href="/#isavailableasync"
         >
           <span
             class="css-6n7j50"
@@ -1338,8 +1341,8 @@ value depending on the state of the credential.
             id="returns-1"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-1"
+            class="css-bwy6tr-A"
+            href="/#returns-1"
           >
             <span
               class="css-6n7j50"
@@ -1410,6 +1413,7 @@ value depending on the state of the credential.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -1455,8 +1459,8 @@ value depending on the state of the credential.
           id="refreshasyncoptions"
         />
         <a
-          class="css-8y2kaf"
-          href="#refreshasyncoptions"
+          class="css-bwy6tr-A"
+          href="/#refreshasyncoptions"
         >
           <span
             class="css-6n7j50"
@@ -1602,8 +1606,8 @@ Calling this method will show the sign in modal before actually refreshing the u
             id="returns-2"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-2"
+            class="css-bwy6tr-A"
+            href="/#returns-2"
           >
             <span
               class="css-6n7j50"
@@ -1674,6 +1678,7 @@ Calling this method will show the sign in modal before actually refreshing the u
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -1731,8 +1736,8 @@ refresh operation.
           id="signinasyncoptions"
         />
         <a
-          class="css-8y2kaf"
-          href="#signinasyncoptions"
+          class="css-bwy6tr-A"
+          href="/#signinasyncoptions"
         >
           <span
             class="css-6n7j50"
@@ -1922,8 +1927,8 @@ the user, since this remains the same for apps released by the same developer.
             id="returns-3"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-3"
+            class="css-bwy6tr-A"
+            href="/#returns-3"
           >
             <span
               class="css-6n7j50"
@@ -1994,6 +1999,7 @@ the user, since this remains the same for apps released by the same developer.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -2051,8 +2057,8 @@ sign-in operation.
           id="signoutasyncoptions"
         />
         <a
-          class="css-8y2kaf"
-          href="#signoutasyncoptions"
+          class="css-bwy6tr-A"
+          href="/#signoutasyncoptions"
         >
           <span
             class="css-6n7j50"
@@ -2228,8 +2234,8 @@ from using
             id="returns-4"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-4"
+            class="css-bwy6tr-A"
+            href="/#returns-4"
           >
             <span
               class="css-6n7j50"
@@ -2300,6 +2306,7 @@ from using
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -2354,8 +2361,8 @@ sign-out operation.
         id="event-subscriptions"
       />
       <a
-        class="css-8y2kaf"
-        href="#event-subscriptions"
+        class="css-bwy6tr-A"
+        href="/#event-subscriptions"
       >
         <span
           class="css-6n7j50"
@@ -2408,8 +2415,8 @@ sign-out operation.
           id="addrevokelistenerlistener"
         />
         <a
-          class="css-8y2kaf"
-          href="#addrevokelistenerlistener"
+          class="css-bwy6tr-A"
+          href="/#addrevokelistenerlistener"
         >
           <span
             class="css-6n7j50"
@@ -2529,8 +2536,8 @@ sign-out operation.
             id="returns-5"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-5"
+            class="css-bwy6tr-A"
+            href="/#returns-5"
           >
             <span
               class="css-6n7j50"
@@ -2619,8 +2626,8 @@ sign-out operation.
         id="types"
       />
       <a
-        class="css-8y2kaf"
-        href="#types"
+        class="css-bwy6tr-A"
+        href="/#types"
       >
         <span
           class="css-6n7j50"
@@ -2673,8 +2680,8 @@ sign-out operation.
           id="appleauthenticationcredential"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationcredential"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationcredential"
         >
           <span
             class="css-6n7j50"
@@ -2795,6 +2802,7 @@ which contains all of the pertinent user and credential information.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.apple.com/documentation/authenticationservices/asauthorizationappleidcredential"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Apple
 Documentation
@@ -3156,8 +3164,8 @@ developers.
           id="appleauthenticationfullname"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationfullname"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationfullname"
         >
           <span
             class="css-6n7j50"
@@ -3459,8 +3467,8 @@ may be
           id="appleauthenticationrefreshoptions"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationrefreshoptions"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationrefreshoptions"
         >
           <span
             class="css-6n7j50"
@@ -3558,6 +3566,7 @@ You must include the ID string of the user whose credentials you'd like to refre
             class="css-ccg2mn-ExternalLink"
             href="https://developer.apple.com/documentation/authenticationservices/asauthorizationopenidrequest"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Apple
 Documentation
@@ -3699,6 +3708,7 @@ OAuth 2.0 protocol
                   class="css-ccg2mn-ExternalLink"
                   href="https://tools.ietf.org/html/rfc6749#section-10.12"
                   rel="noopener noreferrer"
+                  target="_blank"
                 >
                   RFC6749
                 </a>
@@ -3752,8 +3762,8 @@ OAuth 2.0 protocol
           id="appleauthenticationsigninoptions"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationsigninoptions"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationsigninoptions"
         >
           <span
             class="css-6n7j50"
@@ -3851,6 +3861,7 @@ None of these options are required.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.apple.com/documentation/authenticationservices/asauthorizationopenidrequest"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Apple
 Documentation
@@ -3927,6 +3938,7 @@ for more details.
                   class="css-ccg2mn-ExternalLink"
                   href="https://openid.net/specs/openid-connect-core-1_0.html#CodeFlowSteps"
                   rel="noopener noreferrer"
+                  target="_blank"
                 >
                   OpenID Connect specification
                 </a>
@@ -4036,6 +4048,7 @@ OAuth 2.0 protocol
                   class="css-ccg2mn-ExternalLink"
                   href="https://tools.ietf.org/html/rfc6749#section-10.12"
                   rel="noopener noreferrer"
+                  target="_blank"
                 >
                   RFC6749
                 </a>
@@ -4062,8 +4075,8 @@ OAuth 2.0 protocol
           id="appleauthenticationsignoutoptions"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationsignoutoptions"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationsignoutoptions"
         >
           <span
             class="css-6n7j50"
@@ -4161,6 +4174,7 @@ You must include the ID string of the user to sign out.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.apple.com/documentation/authenticationservices/asauthorizationopenidrequest"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Apple
 Documentation
@@ -4239,6 +4253,7 @@ OAuth 2.0 protocol
                   class="css-ccg2mn-ExternalLink"
                   href="https://tools.ietf.org/html/rfc6749#section-10.12"
                   rel="noopener noreferrer"
+                  target="_blank"
                 >
                   RFC6749
                 </a>
@@ -4292,8 +4307,8 @@ OAuth 2.0 protocol
           id="subscription"
         />
         <a
-          class="css-8y2kaf"
-          href="#subscription"
+          class="css-bwy6tr-A"
+          href="/#subscription"
         >
           <span
             class="css-6n7j50"
@@ -4413,8 +4428,8 @@ OAuth 2.0 protocol
         id="enums"
       />
       <a
-        class="css-8y2kaf"
-        href="#enums"
+        class="css-bwy6tr-A"
+        href="/#enums"
       >
         <span
           class="css-6n7j50"
@@ -4467,8 +4482,8 @@ OAuth 2.0 protocol
           id="appleauthenticationbuttonstyle"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationbuttonstyle"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationbuttonstyle"
         >
           <span
             class="css-6n7j50"
@@ -4546,8 +4561,8 @@ OAuth 2.0 protocol
               id="white"
             />
             <a
-              class="css-8y2kaf"
-              href="#white"
+              class="css-bwy6tr-A"
+              href="/#white"
             >
               <span
                 class="css-6n7j50"
@@ -4624,8 +4639,8 @@ OAuth 2.0 protocol
               id="white_outline"
             />
             <a
-              class="css-8y2kaf"
-              href="#white_outline"
+              class="css-bwy6tr-A"
+              href="/#white_outline"
             >
               <span
                 class="css-6n7j50"
@@ -4702,8 +4717,8 @@ OAuth 2.0 protocol
               id="black"
             />
             <a
-              class="css-8y2kaf"
-              href="#black"
+              class="css-bwy6tr-A"
+              href="/#black"
             >
               <span
                 class="css-6n7j50"
@@ -4777,8 +4792,8 @@ OAuth 2.0 protocol
           id="appleauthenticationbuttontype"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationbuttontype"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationbuttontype"
         >
           <span
             class="css-6n7j50"
@@ -4856,8 +4871,8 @@ OAuth 2.0 protocol
               id="sign_in"
             />
             <a
-              class="css-8y2kaf"
-              href="#sign_in"
+              class="css-bwy6tr-A"
+              href="/#sign_in"
             >
               <span
                 class="css-6n7j50"
@@ -4934,8 +4949,8 @@ OAuth 2.0 protocol
               id="continue"
             />
             <a
-              class="css-8y2kaf"
-              href="#continue"
+              class="css-bwy6tr-A"
+              href="/#continue"
             >
               <span
                 class="css-6n7j50"
@@ -5045,8 +5060,8 @@ OAuth 2.0 protocol
               id="sign_up"
             />
             <a
-              class="css-8y2kaf"
-              href="#sign_up"
+              class="css-bwy6tr-A"
+              href="/#sign_up"
             >
               <span
                 class="css-6n7j50"
@@ -5120,8 +5135,8 @@ OAuth 2.0 protocol
           id="appleauthenticationcredentialstate"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationcredentialstate"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationcredentialstate"
         >
           <span
             class="css-6n7j50"
@@ -5218,6 +5233,7 @@ OAuth 2.0 protocol
             class="css-ccg2mn-ExternalLink"
             href="https://developer.apple.com/documentation/authenticationservices/asauthorizationappleidprovidercredentialstate"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Apple
 Documentation
@@ -5246,8 +5262,8 @@ for more details.
               id="revoked"
             />
             <a
-              class="css-8y2kaf"
-              href="#revoked"
+              class="css-bwy6tr-A"
+              href="/#revoked"
             >
               <span
                 class="css-6n7j50"
@@ -5318,8 +5334,8 @@ for more details.
               id="authorized"
             />
             <a
-              class="css-8y2kaf"
-              href="#authorized"
+              class="css-bwy6tr-A"
+              href="/#authorized"
             >
               <span
                 class="css-6n7j50"
@@ -5390,8 +5406,8 @@ for more details.
               id="not_found"
             />
             <a
-              class="css-8y2kaf"
-              href="#not_found"
+              class="css-bwy6tr-A"
+              href="/#not_found"
             >
               <span
                 class="css-6n7j50"
@@ -5462,8 +5478,8 @@ for more details.
               id="transferred"
             />
             <a
-              class="css-8y2kaf"
-              href="#transferred"
+              class="css-bwy6tr-A"
+              href="/#transferred"
             >
               <span
                 class="css-6n7j50"
@@ -5531,8 +5547,8 @@ for more details.
           id="appleauthenticationoperation"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationoperation"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationoperation"
         >
           <span
             class="css-6n7j50"
@@ -5593,8 +5609,8 @@ for more details.
               id="implicit"
             />
             <a
-              class="css-8y2kaf"
-              href="#implicit"
+              class="css-bwy6tr-A"
+              href="/#implicit"
             >
               <span
                 class="css-6n7j50"
@@ -5671,8 +5687,8 @@ for more details.
               id="login"
             />
             <a
-              class="css-8y2kaf"
-              href="#login"
+              class="css-bwy6tr-A"
+              href="/#login"
             >
               <span
                 class="css-6n7j50"
@@ -5743,8 +5759,8 @@ for more details.
               id="refresh"
             />
             <a
-              class="css-8y2kaf"
-              href="#refresh"
+              class="css-bwy6tr-A"
+              href="/#refresh"
             >
               <span
                 class="css-6n7j50"
@@ -5815,8 +5831,8 @@ for more details.
               id="logout"
             />
             <a
-              class="css-8y2kaf"
-              href="#logout"
+              class="css-bwy6tr-A"
+              href="/#logout"
             >
               <span
                 class="css-6n7j50"
@@ -5884,8 +5900,8 @@ for more details.
           id="appleauthenticationscope"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationscope"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationscope"
         >
           <span
             class="css-6n7j50"
@@ -6023,6 +6039,7 @@ You will still need to handle null values for any fields you request.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.apple.com/documentation/authenticationservices/asauthorizationscope"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Apple
 Documentation
@@ -6051,8 +6068,8 @@ for more details.
               id="full_name"
             />
             <a
-              class="css-8y2kaf"
-              href="#full_name"
+              class="css-bwy6tr-A"
+              href="/#full_name"
             >
               <span
                 class="css-6n7j50"
@@ -6123,8 +6140,8 @@ for more details.
               id="email"
             />
             <a
-              class="css-8y2kaf"
-              href="#email"
+              class="css-bwy6tr-A"
+              href="/#email"
             >
               <span
                 class="css-6n7j50"
@@ -6192,8 +6209,8 @@ for more details.
           id="appleauthenticationuserdetectionstatus"
         />
         <a
-          class="css-8y2kaf"
-          href="#appleauthenticationuserdetectionstatus"
+          class="css-bwy6tr-A"
+          href="/#appleauthenticationuserdetectionstatus"
         >
           <span
             class="css-6n7j50"
@@ -6279,6 +6296,7 @@ for more details.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.apple.com/documentation/authenticationservices/asuserdetectionstatus"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Apple
 Documentation
@@ -6307,8 +6325,8 @@ for more details.
               id="unsupported"
             />
             <a
-              class="css-8y2kaf"
-              href="#unsupported"
+              class="css-bwy6tr-A"
+              href="/#unsupported"
             >
               <span
                 class="css-6n7j50"
@@ -6385,8 +6403,8 @@ for more details.
               id="unknown"
             />
             <a
-              class="css-8y2kaf"
-              href="#unknown"
+              class="css-bwy6tr-A"
+              href="/#unknown"
             >
               <span
                 class="css-6n7j50"
@@ -6463,8 +6481,8 @@ for more details.
               id="likely_real"
             />
             <a
-              class="css-8y2kaf"
-              href="#likely_real"
+              class="css-bwy6tr-A"
+              href="/#likely_real"
             >
               <span
                 class="css-6n7j50"
@@ -6540,8 +6558,8 @@ exports[`APISection expo-barcode-scanner 1`] = `
         id="component"
       />
       <a
-        class="css-8y2kaf"
-        href="#component"
+        class="css-bwy6tr-A"
+        href="/#component"
       >
         <span
           class="css-6n7j50"
@@ -6594,8 +6612,8 @@ exports[`APISection expo-barcode-scanner 1`] = `
           id="barcodescanner"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodescanner"
+          class="css-bwy6tr-A"
+          href="/#barcodescanner"
         >
           <span
             class="css-6n7j50"
@@ -6675,8 +6693,8 @@ exports[`APISection expo-barcode-scanner 1`] = `
           id="props"
         />
         <a
-          class="css-8y2kaf"
-          href="#props"
+          class="css-bwy6tr-A"
+          href="/#props"
         >
           <span
             class="css-6n7j50"
@@ -6730,8 +6748,8 @@ exports[`APISection expo-barcode-scanner 1`] = `
               id="barcodetypes"
             />
             <a
-              class="css-8y2kaf"
-              href="#barcodetypes"
+              class="css-bwy6tr-A"
+              href="/#barcodetypes"
             >
               <span
                 class="css-6n7j50"
@@ -6850,8 +6868,8 @@ minimize battery usage.
               id="onbarcodescanned"
             />
             <a
-              class="css-8y2kaf"
-              href="#onbarcodescanned"
+              class="css-bwy6tr-A"
+              href="/#onbarcodescanned"
             >
               <span
                 class="css-6n7j50"
@@ -7010,8 +7028,8 @@ data has been retrieved.
               id="type"
             />
             <a
-              class="css-8y2kaf"
-              href="#type"
+              class="css-bwy6tr-A"
+              href="/#type"
             >
               <span
                 class="css-6n7j50"
@@ -7142,8 +7160,8 @@ Same as
             id="inherited-props"
           />
           <a
-            class="css-8y2kaf"
-            href="#inherited-props"
+            class="css-bwy6tr-A"
+            href="/#inherited-props"
           >
             <span
               class="css-6n7j50"
@@ -7214,8 +7232,8 @@ Same as
         id="hooks"
       />
       <a
-        class="css-8y2kaf"
-        href="#hooks"
+        class="css-bwy6tr-A"
+        href="/#hooks"
       >
         <span
           class="css-6n7j50"
@@ -7268,8 +7286,8 @@ Same as
           id="usepermissionsoptions"
         />
         <a
-          class="css-8y2kaf"
-          href="#usepermissionsoptions"
+          class="css-bwy6tr-A"
+          href="/#usepermissionsoptions"
         >
           <span
             class="css-6n7j50"
@@ -7493,8 +7511,8 @@ This can be used to quickly create specific permission hooks in every module.
             id="returns"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns"
+            class="css-bwy6tr-A"
+            href="/#returns"
           >
             <span
               class="css-6n7j50"
@@ -7621,8 +7639,8 @@ This can be used to quickly create specific permission hooks in every module.
         id="methods"
       />
       <a
-        class="css-8y2kaf"
-        href="#methods"
+        class="css-bwy6tr-A"
+        href="/#methods"
       >
         <span
           class="css-6n7j50"
@@ -7675,8 +7693,8 @@ This can be used to quickly create specific permission hooks in every module.
           id="barcodescannergetpermissionsasync"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodescannergetpermissionsasync"
+          class="css-bwy6tr-A"
+          href="/#barcodescannergetpermissionsasync"
         >
           <span
             class="css-6n7j50"
@@ -7741,8 +7759,8 @@ This can be used to quickly create specific permission hooks in every module.
             id="returns-1"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-1"
+            class="css-bwy6tr-A"
+            href="/#returns-1"
           >
             <span
               class="css-6n7j50"
@@ -7813,6 +7831,7 @@ This can be used to quickly create specific permission hooks in every module.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -7862,8 +7881,8 @@ This can be used to quickly create specific permission hooks in every module.
           id="barcodescannerrequestpermissionsasync"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodescannerrequestpermissionsasync"
+          class="css-bwy6tr-A"
+          href="/#barcodescannerrequestpermissionsasync"
         >
           <span
             class="css-6n7j50"
@@ -7946,8 +7965,8 @@ This can be used to quickly create specific permission hooks in every module.
             id="returns-2"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-2"
+            class="css-bwy6tr-A"
+            href="/#returns-2"
           >
             <span
               class="css-6n7j50"
@@ -8018,6 +8037,7 @@ This can be used to quickly create specific permission hooks in every module.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -8067,8 +8087,8 @@ This can be used to quickly create specific permission hooks in every module.
           id="barcodescannerscanfromurlasyncurl-barcodetypes"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodescannerscanfromurlasyncurl-barcodetypes"
+          class="css-bwy6tr-A"
+          href="/#barcodescannerscanfromurlasyncurl-barcodetypes"
         >
           <span
             class="css-6n7j50"
@@ -8284,8 +8304,8 @@ the platform.
             id="returns-3"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-3"
+            class="css-bwy6tr-A"
+            href="/#returns-3"
           >
             <span
               class="css-6n7j50"
@@ -8356,6 +8376,7 @@ the platform.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -8400,8 +8421,8 @@ code.
         id="interfaces"
       />
       <a
-        class="css-8y2kaf"
-        href="#interfaces"
+        class="css-bwy6tr-A"
+        href="/#interfaces"
       >
         <span
           class="css-6n7j50"
@@ -8454,8 +8475,8 @@ code.
           id="permissionresponse"
         />
         <a
-          class="css-8y2kaf"
-          href="#permissionresponse"
+          class="css-bwy6tr-A"
+          href="/#permissionresponse"
         >
           <span
             class="css-6n7j50"
@@ -8519,8 +8540,8 @@ code.
             id="permissionresponse--properties"
           />
           <a
-            class="css-8y2kaf"
-            href="#permissionresponse--properties"
+            class="css-bwy6tr-A"
+            href="/#permissionresponse--properties"
           >
             <span
               class="css-6n7j50"
@@ -8734,8 +8755,8 @@ in order to enable/disable the permission.
         id="types"
       />
       <a
-        class="css-8y2kaf"
-        href="#types"
+        class="css-bwy6tr-A"
+        href="/#types"
       >
         <span
           class="css-6n7j50"
@@ -8788,8 +8809,8 @@ in order to enable/disable the permission.
           id="barcodebounds"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodebounds"
+          class="css-bwy6tr-A"
+          href="/#barcodebounds"
         >
           <span
             class="css-6n7j50"
@@ -8948,8 +8969,8 @@ in order to enable/disable the permission.
           id="barcodeevent"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodeevent"
+          class="css-bwy6tr-A"
+          href="/#barcodeevent"
         >
           <span
             class="css-6n7j50"
@@ -9090,8 +9111,8 @@ in order to enable/disable the permission.
           id="barcodeeventcallbackarguments"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodeeventcallbackarguments"
+          class="css-bwy6tr-A"
+          href="/#barcodeeventcallbackarguments"
         >
           <span
             class="css-6n7j50"
@@ -9214,8 +9235,8 @@ in order to enable/disable the permission.
           id="barcodepoint"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodepoint"
+          class="css-bwy6tr-A"
+          href="/#barcodepoint"
         >
           <span
             class="css-6n7j50"
@@ -9383,8 +9404,8 @@ are using the barcode scanner view, these values are adjusted to the dimensions 
           id="barcodescannedcallback"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodescannedcallback"
+          class="css-bwy6tr-A"
+          href="/#barcodescannedcallback"
         >
           <span
             class="css-6n7j50"
@@ -9510,8 +9531,8 @@ are using the barcode scanner view, these values are adjusted to the dimensions 
           id="barcodescannerresult"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodescannerresult"
+          class="css-bwy6tr-A"
+          href="/#barcodescannerresult"
         >
           <span
             class="css-6n7j50"
@@ -9819,8 +9840,8 @@ For some types, they will represent the area used by the scanner.
           id="barcodesize"
         />
         <a
-          class="css-8y2kaf"
-          href="#barcodesize"
+          class="css-bwy6tr-A"
+          href="/#barcodesize"
         >
           <span
             class="css-6n7j50"
@@ -9969,8 +9990,8 @@ For some types, they will represent the area used by the scanner.
           id="permissionhookoptions"
         />
         <a
-          class="css-8y2kaf"
-          href="#permissionhookoptions"
+          class="css-bwy6tr-A"
+          href="/#permissionhookoptions"
         >
           <span
             class="css-6n7j50"
@@ -10048,8 +10069,8 @@ For some types, they will represent the area used by the scanner.
         id="enums"
       />
       <a
-        class="css-8y2kaf"
-        href="#enums"
+        class="css-bwy6tr-A"
+        href="/#enums"
       >
         <span
           class="css-6n7j50"
@@ -10102,8 +10123,8 @@ For some types, they will represent the area used by the scanner.
           id="permissionstatus"
         />
         <a
-          class="css-8y2kaf"
-          href="#permissionstatus"
+          class="css-bwy6tr-A"
+          href="/#permissionstatus"
         >
           <span
             class="css-6n7j50"
@@ -10164,8 +10185,8 @@ For some types, they will represent the area used by the scanner.
               id="denied"
             />
             <a
-              class="css-8y2kaf"
-              href="#denied"
+              class="css-bwy6tr-A"
+              href="/#denied"
             >
               <span
                 class="css-6n7j50"
@@ -10242,8 +10263,8 @@ For some types, they will represent the area used by the scanner.
               id="granted"
             />
             <a
-              class="css-8y2kaf"
-              href="#granted"
+              class="css-bwy6tr-A"
+              href="/#granted"
             >
               <span
                 class="css-6n7j50"
@@ -10320,8 +10341,8 @@ For some types, they will represent the area used by the scanner.
               id="undetermined"
             />
             <a
-              class="css-8y2kaf"
-              href="#undetermined"
+              class="css-bwy6tr-A"
+              href="/#undetermined"
             >
               <span
                 class="css-6n7j50"
@@ -10397,8 +10418,8 @@ exports[`APISection expo-pedometer 1`] = `
         id="methods"
       />
       <a
-        class="css-8y2kaf"
-        href="#methods"
+        class="css-bwy6tr-A"
+        href="/#methods"
       >
         <span
           class="css-6n7j50"
@@ -10451,8 +10472,8 @@ exports[`APISection expo-pedometer 1`] = `
           id="getpermissionsasync"
         />
         <a
-          class="css-8y2kaf"
-          href="#getpermissionsasync"
+          class="css-bwy6tr-A"
+          href="/#getpermissionsasync"
         >
           <span
             class="css-6n7j50"
@@ -10510,8 +10531,8 @@ exports[`APISection expo-pedometer 1`] = `
             id="returns"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns"
+            class="css-bwy6tr-A"
+            href="/#returns"
           >
             <span
               class="css-6n7j50"
@@ -10582,6 +10603,7 @@ exports[`APISection expo-pedometer 1`] = `
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -10614,8 +10636,8 @@ exports[`APISection expo-pedometer 1`] = `
           id="getstepcountasyncstart-end"
         />
         <a
-          class="css-8y2kaf"
-          href="#getstepcountasyncstart-end"
+          class="css-bwy6tr-A"
+          href="/#getstepcountasyncstart-end"
         >
           <span
             class="css-6n7j50"
@@ -10709,6 +10731,7 @@ exports[`APISection expo-pedometer 1`] = `
                   class="css-ccg2mn-ExternalLink"
                   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date"
                   rel="noopener noreferrer"
+                  target="_blank"
                 >
                   Date
                 </a>
@@ -10747,6 +10770,7 @@ exports[`APISection expo-pedometer 1`] = `
                   class="css-ccg2mn-ExternalLink"
                   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date"
                   rel="noopener noreferrer"
+                  target="_blank"
                 >
                   Date
                 </a>
@@ -10788,8 +10812,8 @@ exports[`APISection expo-pedometer 1`] = `
             id="returns-1"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-1"
+            class="css-bwy6tr-A"
+            href="/#returns-1"
           >
             <span
               class="css-6n7j50"
@@ -10860,6 +10884,7 @@ exports[`APISection expo-pedometer 1`] = `
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -10904,6 +10929,7 @@ exports[`APISection expo-pedometer 1`] = `
         class="css-ccg2mn-ExternalLink"
         href="https://developer.apple.com/documentation/coremotion/cmpedometer/1613946-querypedometerdatafromdate?language=objc"
         rel="noopener noreferrer"
+        target="_blank"
       >
         Apple documentation states
       </a>
@@ -10968,8 +10994,8 @@ a start date that is more than seven days in the past returns only the available
           id="isavailableasync"
         />
         <a
-          class="css-8y2kaf"
-          href="#isavailableasync"
+          class="css-bwy6tr-A"
+          href="/#isavailableasync"
         >
           <span
             class="css-6n7j50"
@@ -11033,8 +11059,8 @@ a start date that is more than seven days in the past returns only the available
             id="returns-2"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-2"
+            class="css-bwy6tr-A"
+            href="/#returns-2"
           >
             <span
               class="css-6n7j50"
@@ -11105,6 +11131,7 @@ a start date that is more than seven days in the past returns only the available
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -11145,8 +11172,8 @@ available on this device.
           id="requestpermissionsasync"
         />
         <a
-          class="css-8y2kaf"
-          href="#requestpermissionsasync"
+          class="css-bwy6tr-A"
+          href="/#requestpermissionsasync"
         >
           <span
             class="css-6n7j50"
@@ -11204,8 +11231,8 @@ available on this device.
             id="returns-3"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-3"
+            class="css-bwy6tr-A"
+            href="/#returns-3"
           >
             <span
               class="css-6n7j50"
@@ -11276,6 +11303,7 @@ available on this device.
             class="css-ccg2mn-ExternalLink"
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             rel="noopener noreferrer"
+            target="_blank"
           >
             Promise
           </a>
@@ -11308,8 +11336,8 @@ available on this device.
           id="watchstepcountcallback"
         />
         <a
-          class="css-8y2kaf"
-          href="#watchstepcountcallback"
+          class="css-bwy6tr-A"
+          href="/#watchstepcountcallback"
         >
           <span
             class="css-6n7j50"
@@ -11455,8 +11483,8 @@ provided with a single argument that is
             id="returns-4"
           />
           <a
-            class="css-8y2kaf"
-            href="#returns-4"
+            class="css-bwy6tr-A"
+            href="/#returns-4"
           >
             <span
               class="css-6n7j50"
@@ -11569,8 +11597,8 @@ provided with a single argument that is
         id="interfaces"
       />
       <a
-        class="css-8y2kaf"
-        href="#interfaces"
+        class="css-bwy6tr-A"
+        href="/#interfaces"
       >
         <span
           class="css-6n7j50"
@@ -11623,8 +11651,8 @@ provided with a single argument that is
           id="permissionresponse"
         />
         <a
-          class="css-8y2kaf"
-          href="#permissionresponse"
+          class="css-bwy6tr-A"
+          href="/#permissionresponse"
         >
           <span
             class="css-6n7j50"
@@ -11682,8 +11710,8 @@ provided with a single argument that is
             id="permissionresponse--properties"
           />
           <a
-            class="css-8y2kaf"
-            href="#permissionresponse--properties"
+            class="css-bwy6tr-A"
+            href="/#permissionresponse--properties"
           >
             <span
               class="css-6n7j50"
@@ -11887,8 +11915,8 @@ provided with a single argument that is
         id="types"
       />
       <a
-        class="css-8y2kaf"
-        href="#types"
+        class="css-bwy6tr-A"
+        href="/#types"
       >
         <span
           class="css-6n7j50"
@@ -11941,8 +11969,8 @@ provided with a single argument that is
           id="pedometerresult"
         />
         <a
-          class="css-8y2kaf"
-          href="#pedometerresult"
+          class="css-bwy6tr-A"
+          href="/#pedometerresult"
         >
           <span
             class="css-6n7j50"
@@ -12062,8 +12090,8 @@ provided with a single argument that is
           id="pedometerupdatecallback"
         />
         <a
-          class="css-8y2kaf"
-          href="#pedometerupdatecallback"
+          class="css-bwy6tr-A"
+          href="/#pedometerupdatecallback"
         >
           <span
             class="css-6n7j50"
@@ -12189,8 +12217,8 @@ provided with a single argument that is
           id="permissionexpiration"
         />
         <a
-          class="css-8y2kaf"
-          href="#permissionexpiration"
+          class="css-bwy6tr-A"
+          href="/#permissionexpiration"
         >
           <span
             class="css-6n7j50"
@@ -12271,8 +12299,8 @@ provided with a single argument that is
           id="subscription"
         />
         <a
-          class="css-8y2kaf"
-          href="#subscription"
+          class="css-bwy6tr-A"
+          href="/#subscription"
         >
           <span
             class="css-6n7j50"
@@ -12392,8 +12420,8 @@ provided with a single argument that is
         id="enums"
       />
       <a
-        class="css-8y2kaf"
-        href="#enums"
+        class="css-bwy6tr-A"
+        href="/#enums"
       >
         <span
           class="css-6n7j50"
@@ -12446,8 +12474,8 @@ provided with a single argument that is
           id="permissionstatus"
         />
         <a
-          class="css-8y2kaf"
-          href="#permissionstatus"
+          class="css-bwy6tr-A"
+          href="/#permissionstatus"
         >
           <span
             class="css-6n7j50"
@@ -12508,8 +12536,8 @@ provided with a single argument that is
               id="denied"
             />
             <a
-              class="css-8y2kaf"
-              href="#denied"
+              class="css-bwy6tr-A"
+              href="/#denied"
             >
               <span
                 class="css-6n7j50"
@@ -12580,8 +12608,8 @@ provided with a single argument that is
               id="granted"
             />
             <a
-              class="css-8y2kaf"
-              href="#granted"
+              class="css-bwy6tr-A"
+              href="/#granted"
             >
               <span
                 class="css-6n7j50"
@@ -12652,8 +12680,8 @@ provided with a single argument that is
               id="undetermined"
             />
             <a
-              class="css-8y2kaf"
-              href="#undetermined"
+              class="css-bwy6tr-A"
+              href="/#undetermined"
             >
               <span
                 class="css-6n7j50"

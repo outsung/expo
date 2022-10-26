@@ -49,8 +49,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="name"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#name"
+                    class="css-bwy6tr-A"
+                    href="/#name"
                   >
                     <span
                       class="css-6n7j50"
@@ -176,8 +176,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="androidnavigationbar"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#androidnavigationbar"
+                    class="css-bwy6tr-A"
+                    href="/#androidnavigationbar"
                   >
                     <span
                       class="css-6n7j50"
@@ -347,8 +347,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="visible"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#visible"
+                    class="css-bwy6tr-A"
+                    href="/#visible"
                   >
                     <span
                       class="css-6n7j50"
@@ -474,8 +474,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="always"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#always"
+                    class="css-bwy6tr-A"
+                    href="/#always"
                   >
                     <span
                       class="css-6n7j50"
@@ -557,8 +557,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="backgroundcolor"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#backgroundcolor"
+                    class="css-bwy6tr-A"
+                    href="/#backgroundcolor"
                   >
                     <span
                       class="css-6n7j50"
@@ -653,8 +653,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="intentfilters"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#intentfilters"
+                    class="css-bwy6tr-A"
+                    href="/#intentfilters"
                   >
                     <span
                       class="css-6n7j50"
@@ -817,8 +817,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="autoverify"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#autoverify"
+                    class="css-bwy6tr-A"
+                    href="/#autoverify"
                   >
                     <span
                       class="css-6n7j50"
@@ -900,8 +900,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="data"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#data"
+                    class="css-bwy6tr-A"
+                    href="/#data"
                   >
                     <span
                       class="css-6n7j50"
@@ -982,8 +982,8 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     id="host"
                   />
                   <a
-                    class="css-8y2kaf"
-                    href="#host"
+                    class="css-bwy6tr-A"
+                    href="/#host"
                   >
                     <span
                       class="css-6n7j50"
