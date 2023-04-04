@@ -86,6 +86,7 @@ export interface WebManifest {
 // @docsMissing
 export interface ManifestAsset {
   url: string;
+  hash: string;
 }
 
 // @needsAudit @docsMissing

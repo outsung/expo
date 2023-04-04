@@ -91,6 +91,11 @@ export function selectAssetSource(meta: AssetMetadata): AssetSource {
     return { uri: baseUrl.href, hash };
   }
 
+  const assetOnManifest2 = manifest2?.assets.find((asset) => asset.hash === hash);
+  if (assetOnManifest2) {
+    return { hash: assetOnManifest2.hash, uri: assetOnManifest2.url };
+  }
+
   // Production CDN URIs are based on each asset file hash
   return {
     uri: `https://classic-assets.eascdn.net/~assets/${encodeURIComponent(hash)}`,

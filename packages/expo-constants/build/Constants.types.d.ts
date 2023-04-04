@@ -73,6 +73,7 @@ export interface WebManifest {
 }
 export interface ManifestAsset {
     url: string;
+    hash: string;
 }
 /**
  * A modern manifest.
